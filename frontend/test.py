@@ -1,4 +1,2 @@
-SLACK_TOKEN =  '''xoxp-7198233806352-7175441389970-7182903419191-7
-e54c0d85954ca33cca5d344c4b5ff44
-'''
-print(SLACK_TOKEN)
+CHANNEL_ID = 'C07VATEAM4Msssssssssssssssssssssssssssssssssssssssssssssssssssssssssss'
+print(CHANNEL_ID)
