@@ -1,3 +1,2 @@
-
-CHANNEL_ID = 'C07VATEAM4M'
-print(CHANNEL_ID)
+SLACK_TOKEN = 'xoxp'
+print(SLACK_TOKEN)
