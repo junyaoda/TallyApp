@@ -1,2 +1,2 @@
-SLACK_TOKEN = 'xoxp'
+SLACK_TOKEN = 'xoxp-7198233806352-'
 print(SLACK_TOKEN)
