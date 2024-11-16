@@ -1,0 +1,10 @@
+<div style="text-align:center">
+  <h1>Angular and Python Communication</h1>
+  <p>{{ message }}</p>
+
+  <input [(ngModel)]="newMessage" placeholder="Enter a new message" />
+  <button (click)="sendMessage()">Send Data</button>
+
+  <button (click)="tallyData()">Tally Data</button>
+  <p>{{ tally }}</p>
+</div>
